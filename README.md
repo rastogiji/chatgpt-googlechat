@@ -7,6 +7,6 @@ This is an implementation of a Google Chat App which can answer any of your ques
 1. Cloud Account
 
 ## New Features Coming up
-Add Support to retain Conversation context by storing messages in DB
+- [x] Add Support to retain Conversation context by storing messages in DB
 
 Contributions are Welcome. Kidnly open a pull request to contribute or open an issue to discuss problems or suggest improvements.
